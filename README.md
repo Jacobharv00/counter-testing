@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to Counter 👋</h1>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/vWa8Wc470Gf6h3avgW/giphy.gif?cid=ecf05e47qwegzkq8t5ccf9is0bkbbhxrb6u0opq1i7c8wedl&rid=giphy.gif&ct=g" alt="computer motherboard"/>
 <p>
-  <a href="https://www.npmjs.com/package/counter" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/counter.svg">
-  </a>
-</p>
+
 
 > Practicing TDD with react testing libary
 
