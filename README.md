@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to counter 👋</h1>
+<h1 align="center">Welcome to Counter 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/counter" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/counter.svg">
@@ -16,7 +16,7 @@ npm install
 ## Usage
 
 ```sh
-npm run start
+npm start
 ```
 
 ## Run tests
@@ -36,6 +36,3 @@ npm run test
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
